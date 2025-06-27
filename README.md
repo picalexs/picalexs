@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Second-year Computer Science student passionate about DevOps, quantum computing, cyber security, and game development.  <br>💻 Experienced with Java, JavaScript, C#, C++, HTML, CSS, and Unity.  <br>🚀 Always exploring new technologies, building creative projects, and eager to learn more every day.
+🎮 Second-year Computer Science student passionate about DevOps, Quantum Computing, Cyber Security, and Game Development.  <br>💻 Experienced with Java, JavaScript, C#, C++, HTML, CSS, and Unity.  <br>🚀 Always exploring new technologies, building creative projects, and eager to learn more every day.
 
 
 ## 🌐 Socials:

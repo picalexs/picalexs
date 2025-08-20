@@ -16,7 +16,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=picalexs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=picalexs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=-1)
 ---
 [![](https://visitcount.itsvg.in/api?id=picalexs&icon=0&color=1)](https://visitcount.itsvg.in)
 

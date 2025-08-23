@@ -11,7 +11,7 @@
 <p align="center">
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=picalexs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
   <img width=450 src="https://nirzak-streak-stats.vercel.app/?user=picalexs&theme=tokyonight&hide_border=false" />
-  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=picalexs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=picalexs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=jupyter%20Notebook" />
   <img width=450 src="https://github-contributor-stats.vercel.app/api?username=picalexs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 

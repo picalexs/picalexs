@@ -2,9 +2,7 @@
   <img src="./assets/profile-banner.jpg" width="100%" alt="Server racks at a research facility" />
 </p>
 
-<h1 align="center">Alexandru Picioroagă</h1>
-
-<p align="center"><strong>DevOps Engineer @ Endava</strong> · Iași, Romania</p>
+<p><strong>DevOps Engineer @ Endava</strong> · Iași, Romania</p>
 
 Computer Science graduate from Alexandru Ioan Cuza University of Iași, now pursuing a master’s degree in Advanced Studies in Computer Science at UAIC.
 
@@ -18,5 +16,3 @@ Computer Science graduate from Alexandru Ioan Cuza University of Iași, now purs
 **Highlights:** AWS Certified Cloud Practitioner · Qiskit Global Summer School 2026 · BSc thesis graded 10/10
 
 [LinkedIn](https://www.linkedin.com/in/picalexs/)
-
-<sub>Banner photo by [Eric Stoynov](https://unsplash.com/photos/two-server-racks-filled-with-electronic-components-and-wires-k27hkqXuveo) on Unsplash · [License](https://unsplash.com/license)</sub>

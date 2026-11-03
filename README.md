@@ -2,9 +2,10 @@
   <img src="./assets/profile-banner.jpg" width="100%" alt="Server racks at a research facility" />
 </p>
 
-<p><strong>DevOps Engineer @ Endava</strong> · Iași, Romania</p>
+- <p><strong>DevOps Engineer @ Endava</strong> · Iași, Romania</p>
 
-Computer Science graduate from Alexandru Ioan Cuza University of Iași, now pursuing a master’s degree in Advanced Studies in Computer Science at UAIC.
+- Computer Science graduate from Alexandru Ioan Cuza University of Iași
+- Now pursuing a master’s degree in Advanced Studies in Computer Science at UAIC.
 
 ### Interests & selected projects
 

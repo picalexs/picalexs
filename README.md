@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.jpg" width="100%" alt="Server racks at a research facility" />
+  <img src="./assets/Banner.png" width="100%" />
 </p>
 
 <h1 align="center">Alexandru Picioroagă</h1>
